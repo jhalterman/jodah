@@ -1,0 +1,1 @@
+Example code from [writings](http://jodah.net/writing/) on [jodah.net](http://jodah.net).
